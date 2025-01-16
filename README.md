@@ -15,15 +15,18 @@ Ich dieser kurzen Lernperiode möchte Ich mich in der ersten Woche grösstenteil
 450: 5-5.5
 
 ## 10.01.25
-- [ ] Mit dem LB 450 weiter machen
+- [x] Mit dem LB 450 weiter machen
 - [ ] Website Versuchsfähig machen
 - [ ] Versuchen JWT zu implementieren
  
 ## Reflexion
 
+heute habe ich an der Lb weiter gearbeitet und versucht meine website zu verbessern. Irgendwie funktioniert meine Website nicht mit JWT und ich muss noch irgendwie versuchen das hin zu bekommen weil ich JWT eigentlich schon gerne in meinem Program möchte. Ich habe noch ein wenig an meiner LB gearbeitet. Ich habe den Code nochmals angeschaut und das Testkonzept mit den Testfällen fertig gemacht.
+
+
 ## 17.01.25
-- [ ] 
-- [ ] 
+- [ ] Mit dem LB 450 weiter machen (UML Diagram fertig machen und dann schauen was man noch machen könnte)
+- [ ] Versuchen JWT zu implementieren
 - [ ] 
  
 ## Reflexion
