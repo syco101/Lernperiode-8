@@ -27,7 +27,7 @@ heute habe ich an der LB weiter gearbeitet und versucht meine Website zu verbess
 ## 17.01.25
 - [x] Mit dem LB 450 weiter machen ( Das Klassendiagram fertig machen und dann schauen was man noch machen könnte)
 - [ ] Versuchen JWT zu implementieren
-- [ ] 
+- [ ] -
  
 ## Reflexion
 Ich habe Heute das Klassendiagram fertig gemacht und das fand ich ein wenig kompliziert, weil ich das auch schon lange nicht mehr gemacht habe deswegen brauchte ich auch lange und ich bin mir auch nicht sicher ob ich alles richtig habe. Ich habe dann noch die Rechtschreibung und Kommasetzung in meinem Text überprüft und verbessert
