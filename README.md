@@ -34,7 +34,7 @@ Ich habe Heute das Klassendiagram fertig gemacht und das fand ich ein wenig komp
 
 
 ## 24.01.25
-- [ ] Den Auftrag 3 bei der LB 295 lösen
+- [ ] Den Auftrag 2 bei der LB 295 lösen
 - [ ] Das Modul 347 repetieren für den Test nach den Ferien
 - [ ] An meinem Projekt weiter arbeiten
  
