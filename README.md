@@ -10,9 +10,9 @@ Ich dieser kurzen Lernperiode möchte Ich mich in der ersten Woche grösstenteil
 
 
 
-## Geplante Noten:
+## Gewollte Noten:
 
-450: 5.5-6
+450: 5-6
 
 ## 10.01.25
 - [x] Mit dem LB 450 weiter machen
