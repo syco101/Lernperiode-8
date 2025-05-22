@@ -34,9 +34,10 @@ Ich habe Heute das Klassendiagram fertig gemacht und das fand ich ein wenig komp
 
 
 ## 24.01.25
-- [ ] Den Auftrag 2 bei der LB 295 lösen
-- [ ] Das Modul 347 repetieren für den Test nach den Ferien
+- [x] Den Auftrag 2 bei der LB 295 lösen
+- [x] Das Modul 347 repetieren für den Test nach den Ferien
 - [ ] An meinem Projekt weiter arbeiten
  
 ## Reflexion
 
+Heute habe ich an den zweiten Auftrag der LB gearbeitet und ich egentlich bin ich fast fertig geworden und ich glaube ich habe alles richtig. Ich habe aber mehr das Modul 347 repetiert gehabt, weil ich das für wichtiger empfunden habe.
