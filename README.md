@@ -8,7 +8,7 @@ Ich dieser kurzen Lernperiode möchte Ich mich in der ersten Woche grösstenteil
 
 ## Noten in dieser Periode
 
-
+450: 5
 
 ## Gewollte Noten:
 
